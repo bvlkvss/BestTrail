@@ -1,0 +1,16 @@
+*.pyc
+*.pyo
+__pycache__/
+*.pyd
+.Python
+dist/
+build/
+
+instance/
+
+*.log
+*.sqlite3
+docker-compose.override.yml
+
+.vscode/
+.DS_Store
